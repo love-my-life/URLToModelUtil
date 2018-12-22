@@ -1,5 +1,6 @@
 # URLToModelUtil
 ## URLToModelUtil is a desktop application for Mac OS X written in Swift. 
+The application still in its early stage. Please report any issue so I can improve it.
 
 > You can do the following things with it：
 * Debugging urls (support for Get or Post requests).
@@ -29,3 +30,4 @@
 
 > Take a look at the screenshot below to make it easier to understand and use.
 ![alt tag](https://cloud.githubusercontent.com/assets/5157350/5228493/72693010-7713-11e4-9e42-625a8590424a.png)
+
