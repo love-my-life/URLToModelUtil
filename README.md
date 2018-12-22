@@ -9,7 +9,7 @@
 * Set a class name prefix for the generated classes.
 * Finding historical access records
 
-## Supported languages
+## Supported Type
 
 1. Java for Android.
 2. Java for [Realm](http://realm.io) Android.
@@ -26,3 +26,5 @@
 13. Objective-C - MAC.
 14. Objective-C - CoreData.
 15. Objective-C for [Realm](http://realm.io) iOS.
+
+< Take a look at the screenshot below to make it easier to understand and use.
