@@ -27,4 +27,4 @@
 14. Objective-C - CoreData.
 15. Objective-C for [Realm](http://realm.io) iOS.
 
-< Take a look at the screenshot below to make it easier to understand and use.
+> Take a look at the screenshot below to make it easier to understand and use.
