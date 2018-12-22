@@ -8,5 +8,5 @@
 * Preview the generated content before saving it.
 * Set a class name prefix for the generated classes.
 * Finding historical access records
-========================
-Supported languages
+
+## Supported languages
