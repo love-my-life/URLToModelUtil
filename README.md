@@ -10,3 +10,19 @@
 * Finding historical access records
 
 ## Supported languages
+
+1. Java for Android.
+2. Java for [Realm](http://realm.io) Android.
+3. GSON for Android
+4. Swift Classes.
+5. Swift Classes for [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) library.
+6. Swift Classes for [Realm](http://realm.io).
+7. Swift - CoreData.
+8. Swift Structures.
+9. Swift Structures for [Gloss](https://github.com/hkellaway/Gloss)
+10. Swift Mappable Classes for (Swift 3) [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
+11. Swift Structures for [Unbox](https://github.com/JohnSundell/Unbox)
+12. Objective-C - iOS.
+13. Objective-C - MAC.
+14. Objective-C - CoreData.
+15. Objective-C for [Realm](http://realm.io) iOS.
